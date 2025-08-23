@@ -5,5 +5,7 @@ Este curso de Python desde cero es un curso introductorio donde aprenderás los 
 
 print(Nombre_Curso, descipcion_curso)
 print(len(Nombre_Curso) )
-print(Nombre_Curso[0:6]) 
-print(Nombre_Curso[0:6:2])
+print(Nombre_Curso[0])
+print(Nombre_Curso[0:8])
+print(Nombre_Curso[0:]) 
+print(Nombre_Curso[0:8])

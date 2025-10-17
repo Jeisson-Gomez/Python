@@ -1,4 +1,7 @@
-# 
+# \ ""
+# \ '
+# \\
+# \n
 
 curso = "Ultimate \"Python\""
 

@@ -1,4 +1,4 @@
-Edad = 15
+Edad = 22
 if Edad > 17:
     print("Puede ver la pelicula")
 else:

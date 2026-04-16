@@ -9,3 +9,6 @@ for Numero in range(5):
 
 else:
     print("No encontre el numero buscado :(")
+
+for char in "Ultimate Python":
+    print(char)

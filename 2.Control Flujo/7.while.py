@@ -3,8 +3,9 @@
 #    print(Numero)
 #    Numero *= 2
 
-Comando = ""
-
-while Comando != "salir":
+while True:
     Comando = input("$ ")
     print(Comando)
+
+    if Comando.lower() == "Salir":
+        break

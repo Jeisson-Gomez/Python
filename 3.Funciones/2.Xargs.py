@@ -1,4 +1,5 @@
-def Suma(a, b):
-    print(a + b)
+def Suma(*Numeros):
+    print(a + b + c)
 
-Suma(2, 5)
+Suma(2, 5, 3)
+Suma(2, 5, 3, 4)

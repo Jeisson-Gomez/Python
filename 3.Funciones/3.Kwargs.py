@@ -1,4 +1,7 @@
 def get_product(**Datos):
-    print(Datos)
+    print(Datos["Id"], Datos["Name"])
 
-get_product(id = "Id")
+get_product(Id = "23",
+                    Name="Iphone",
+                    descrip="Este es un telefono"
+                    )
